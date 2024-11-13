@@ -14,7 +14,8 @@ main {
     max-width: 33rem;
     margin-left:auto;
   }
-
+   main.main-container {}
+   
   & .back {
     display: flex;
     align-items: center;
